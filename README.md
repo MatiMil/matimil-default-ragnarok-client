@@ -52,9 +52,10 @@ You can [click here](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-
   
 > 🖼️ [Client Login Screen Creator](https://sapitosucio.github.io/FroggoCutter/)
 
-> 📦 [Official kRO EXE Installer (08/Jan/2024) **(3.80GB)**](http://rofull.gnjoy.com/RAG_SETUP_240108.exe) 🔸 [(mirror)](https://archive.org/details/rag-setup-240108 "Thx to Archive.org 🐸👍")
 
-> 📦 [Official kRO Zipped Folder (18/Apr/2024) **(3.83GB)**](http://rofull.gnjoy.com/Ragnarok_240418.zip) 🔸 [(mirror)](https://archive.org/details/ragnarok-240418 "Thx to Archive.org 🐸👍")
+> 📦 [Official kRO Zipped Folder (10/June/2024) **(3.84GB)**](http://rofull.gnjoy.com/Ragnarok_240610.zip) 
+
+> 📦 [Official kRO EXE Installer (08/Jan/2024) **(3.80GB)**](http://rofull.gnjoy.com/RAG_SETUP_240108.exe) 🔸 [(mirror)](https://archive.org/details/rag-setup-240108 "Thx to Archive.org 🐸👍")
 
 ## FAQ
 
