@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information</desc>
+	<servicetype>korea</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+     <display>^007820Froggo Test Server^000000 - ^830000Local^000000</display>
+		<balloon>^71F295Froggo Test Client^000000</balloon>
+      		<address>localhost</address>
+      		<port>6900</port>
+      		<version>55</version>
+      		<langtype>1</langtype>
+		<registrationweb>https://discord.gg/4yCVb5Wg7Z</registrationweb>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+		</loading>
+		<yellow>
+            <admin>2000000</admin>
+            <admin>2000002</admin>
+            <admin>2000003</admin>
+        </yellow>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
+    </connection>
+	<connection>
+     <display>^007820Froggo Test Server^000000 - ^830000Online^000000</display>
+		<balloon>^71F295Not always UP :*^000000</balloon>
+      		<address>etto.casacam.net</address>
+      		<port>6900</port>
+      		<version>55</version>
+      		<langtype>1</langtype>
+		<registrationweb>https://discord.gg/4yCVb5Wg7Z</registrationweb>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+			<image>loading05.jpg</image>
+			<image>loading06.jpg</image>
+		</loading>
+		<yellow>
+            <admin>2000000</admin>
+            <admin>2000002</admin>
+            <admin>2000003</admin>
+        </yellow>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
+    </connection>
+</clientinfo>
