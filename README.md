@@ -26,7 +26,7 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 - [DirectX Runtime](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
 
 ## Features
- - Includes latest [RoEnglishRE](https://github.com/llchrisll/ROenglishRE/) - *15/apr/2024*
+ - Includes latest [RoEnglishRE](https://github.com/llchrisll/ROenglishRE/) - *10/Sept/2024*
    - [Custom Lua Support](https://llchrisll.github.io/ROTPDocs/addons/#custom-lua-support)
    - [jRO Enchantment Display](https://llchrisll.github.io/ROTPDocs/addons/#jro-enchants-display)
   
@@ -42,7 +42,8 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 
 ## Download
 
-You can [click here](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder
+You can [click here](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [(fast mirror)](https://qiwi.gg/file/brYo0305-ro-folder "Really Fast 🐸👍")
+
 
 ## Extra
 
@@ -54,7 +55,6 @@ You can [click here](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-
 
 
 > 📦 [Official kRO Zipped Folder (10/June/2024) **(3.84GB)**](http://rofull.gnjoy.com/Ragnarok_240610.zip) 
-
 > 📦 [Official kRO EXE Installer (08/Jan/2024) **(3.80GB)**](http://rofull.gnjoy.com/RAG_SETUP_240108.exe) 🔸 [(mirror)](https://archive.org/details/rag-setup-240108 "Thx to Archive.org 🐸👍")
 
 ## FAQ
