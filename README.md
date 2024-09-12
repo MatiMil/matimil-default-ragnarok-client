@@ -1,15 +1,15 @@
 # Froggo Rö Folder 🐸
 
-![Folder Size](https://img.shields.io/badge/Folder%20Size-2.96GB-lightgreen)
+![Folder Size](https://img.shields.io/badge/Folder%20Size-2.97GB-lightgreen)
 
 
 This is a simple RO folder that contains everything you need to run a **`2022-04-06`** client, the latest *publicly* available.
 
-I have cleaned and compressed the **`data.grf`** file to reduce its size from **`3.87GB`** to **`2.14GB`**. **`official_data.grf`** took the same treatment and the file size went down to **`426MB`**.
+I have cleaned and compressed the **`data.grf`** file to reduce its size from **`3.87GB`** to **`2.14GB`**. **`official_data.grf`** took the same treatment and the file size wentfrom **`534MB`** down to **`437MB`**. 
 
 Additionally, I have added a mini-map to all those maps that were lacking one, approximately  **`275`** mini-maps were added, I only ignored some indoor (_in) and guild castles maps.
 
-##### Before BGM, the Rö folder has a total size of **`2.62GB`**, after BGM it reaches **`2.96GB`**
+##### Before BGM, the Rö folder has a total size of **`2.62GB`**, after BGM it reaches **`2.97B`**
 
 ## Screenshots
 
@@ -42,7 +42,7 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 
 ## Download
 
-You can [**click here**](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/brYo0305-ro-folder "Really Fast, but dont fall for the ADS 🐸👍")
+You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/sgpB1178-ro-folder "Really Fast, but dont fall for the ADS 🐸👍")
 
 
 ## Extra
