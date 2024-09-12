@@ -55,6 +55,7 @@ You can [click here](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-
 
 
 > 📦 [Official kRO Zipped Folder (10/June/2024) **(3.84GB)**](http://rofull.gnjoy.com/Ragnarok_240610.zip) 
+
 > 📦 [Official kRO EXE Installer (08/Jan/2024) **(3.80GB)**](http://rofull.gnjoy.com/RAG_SETUP_240108.exe) 🔸 [(mirror)](https://archive.org/details/rag-setup-240108 "Thx to Archive.org 🐸👍")
 
 ## FAQ
