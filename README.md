@@ -42,7 +42,7 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 
 ## Download
 
-You can [**click here**](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/brYo0305-ro-folder "Really Fast, but dont fall for the ADS 🐸👍") You
+You can [**click here**](https://gitlab.com/SapitoSucio/ro-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/brYo0305-ro-folder "Really Fast, but dont fall for the ADS 🐸👍")
 
 
 ## Extra
