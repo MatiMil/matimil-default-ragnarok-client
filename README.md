@@ -34,7 +34,7 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 
  - Includes [opensetup](https://nn.ai4rei.net/dev/opensetup/) - *v3.1.0.627*
 
- - Includes [iRO's Setup.exe](# "It's in English 🤓"), thanks to relzz!
+ - Includes [iRO's Setup.exe](# "It's in English 🐸"), thanks to relzz!
 
  - Includes [AzzyAI 1.55](https://github.com/SpenceKonde/AzzyAI) 
 
@@ -64,7 +64,7 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 
 > Possible reasons:
 > - You using **outdated** rAthena which doesn't work with 2022-04-06 client
-> - You haven't set correct **PACKETVER** or done it with mistakes (skill issue 💅)
+> - You haven't set correct **PACKETVER** or done it with mistakes (skill issue 🐸💅)
 > - You haven't **recompiled** rAthena after changing **PACKETVER**
 > - You haven't **restarted** server after **recompilation**
 
