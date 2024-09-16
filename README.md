@@ -1,15 +1,15 @@
 # Froggo Rö Folder 🐸
 
-![Folder Size](https://img.shields.io/badge/Folder%20Size-2.97GB-lightgreen)
+![Folder Size](https://img.shields.io/badge/Folder%20Size-2.84GB-lightgreen)
 
 
 This is a simple RO folder that contains everything you need to run a **`2022-04-06`** client, the latest *publicly* available.
 
-I have cleaned and compressed the **`data.grf`** file to reduce its size from **`3.87GB`** to **`2.14GB`**. **`official_data.grf`** took the same treatment and the file size wentfrom **`534MB`** down to **`437MB`**. 
+I have optimized and compressed the **`data.grf`** file, significantly reducing its size from **`3.87GB`** to **`2.14GB`**. Similarly, the **`official_data.grf`** file underwent the same optimization process, resulting in a size reduction from **`534MB`** to **`303MB`**.
 
 Additionally, I have added a mini-map to all those maps that were lacking one, approximately  **`275`** mini-maps were added, I only ignored some indoor (_in) and guild castles maps.
 
-##### Before BGM, the Rö folder has a total size of **`2.62GB`**, after BGM it reaches **`2.97B`**
+##### Before BGM, the Rö folder has a total size of **`2.50GB`**, after BGM it reaches **`2.84GB`**
 
 ## Screenshots
 
