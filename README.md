@@ -26,7 +26,7 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 - [DirectX Runtime](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
 
 ## Features
- - Includes latest [RoEnglishRE](https://github.com/llchrisll/ROenglishRE/) - *10/Sept/2024*
+ - Includes latest [RoEnglishRE](https://github.com/llchrisll/ROenglishRE/) - *31/Oct/2024*
    - [Custom Lua Support](https://llchrisll.github.io/ROTPDocs/addons/#custom-lua-support)
    - [jRO Enchantment Display](https://llchrisll.github.io/ROTPDocs/addons/#jro-enchants-display)
   
@@ -42,12 +42,12 @@ Additionally, I have added a mini-map to all those maps that were lacking one, a
 
 ## Download
 
-You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/ntjW0512-fROggo-folder-main "Really Fast, but dont fall for the ADS 🐸👍")
+You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/main/ro-folder-main.zip) to download a .zip file of this ro-folder 🔸 [**\~fast mirror (●'◡'●)\~**](https://qiwi.gg/file/myVc1428-fROggo-folder-main "Really Fast, but dont fall for the ADS 🐸👍")
 
 
 ## Extra
 
-> 👾 [Warp Profile for 2022-04-06 used for FroggoClient.exe](https://www.mediafire.com/file/9nednu5y8vcan7i/2022-04-06Patches.yml/file) 🔸 [(mirror)](https://drive.google.com/file/d/1Yd52mAJrdrDzDkbHeWvJSlw_r2nuiPmT/view?usp=sharing)
+> 👾 [Warp Profile for 2022-04-06 used for FroggoClient.exe](https://www.mediafire.com/file/9nednu5y8vcan7i/2022-04-06Patches.yml/file)
 
 > 🕹️ [2022-04-06 Vanilla Ragexe](https://nemo.herc.ws/downloads/2022-04-06_Ragexe_1648707856/)
   
