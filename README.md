@@ -1,15 +1,15 @@
 # Froggo Rö Folder 🐸
 
-![Folder Size](https://img.shields.io/badge/Folder%20Size-2.84GB-lightgreen)
+![Folder Size](https://img.shields.io/badge/Folder%20Size-2.83GB-lightgreen)
 
 
 This is a simple RO folder that contains everything you need to run a **`2022-04-06`** client, the latest *publicly* available.
 
-I have optimized and compressed the **`data.grf`** file, significantly reducing its size from **`3.87GB`** to **`2.14GB`**. Similarly, the **`official_data.grf`** file underwent the same optimization process, resulting in a size reduction from **`534MB`** to **`303MB`**.
+I have optimized and compressed the **`data.grf`** file, significantly reducing its size from **`3.87GB`** to **`2.15GB`**. Similarly, the **`official_data.grf`** file underwent the same optimization process, resulting in a size reduction from **`534MB`** to **`303MB`**.
 
 Additionally, I have added a mini-map to all those maps that were lacking one, approximately  **`275`** mini-maps were added, I only ignored some indoor (_in) and guild castles maps.
 
-##### Before BGM, the Rö folder has a total size of **`2.50GB`**, after BGM it reaches **`2.84GB`**
+##### Before BGM, the Rö folder has a total size of **`2.49GB`**, after BGM it reaches **`2.83GB`**
 
 ## Screenshots
 
@@ -52,7 +52,6 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 > 🕹️ [2022-04-06 Vanilla Ragexe](https://nemo.herc.ws/downloads/2022-04-06_Ragexe_1648707856/)
   
 > 🖼️ [Client Login Screen Creator](https://sapitosucio.github.io/FroggoCutter/)
-
 
 > 📦 [Official kRO Zipped Folder (10/June/2024) **(3.84GB)**](http://rofull.gnjoy.com/Ragnarok_240610.zip) 
 
