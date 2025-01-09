@@ -49,6 +49,8 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 
 > 👾 [Warp Profile for 2022-04-06 used for FroggoClient.exe](https://www.mediafire.com/file/9nednu5y8vcan7i/2022-04-06Patches.yml/file)
 
+> 🕹 [Froggo rAthena Installer - Install and play your own private server in less than 8 minutes](https://gitlab.com/SapitoSucio/froggo-rathena-installer)
+
 > 🕹️ [2022-04-06 Vanilla Ragexe](https://nemo.herc.ws/downloads/2022-04-06_Ragexe_1648707856/)
   
 > 🖼️ [Client Login Screen Creator](https://sapitosucio.github.io/FroggoCutter/)
