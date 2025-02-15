@@ -91,3 +91,11 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 > In total, out of nearly **90,000** collective images, around **9,400** were removed **alv**.
 >
 > Additionally, every **`.bmp`** image was converted to **8-bit color depth**. This not only saves space in the archive but also makes it easier for the RO client to handle these images efficiently. Furthermore, both **PNGs** and **JPGs** underwent compression to reduce their file sizes.
+
+
+### Why is there data_0.grf, data_1.grf, etc?
+
+> Out of the blue, Gitlab decided to lower the max file size for LFS objects, so I had to split the data.grf into multiple files, this way I can upload the folder to Gitlab without any issues.
+>
+> I'm not sure if this will be a permanent solution, but it's a temporary one.
+
