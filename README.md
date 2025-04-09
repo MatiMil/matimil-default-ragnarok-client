@@ -99,5 +99,4 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 
 ### Can I merge data_0.grf, data_1.grf, etc into one?
 
-> Ye
-> You can use GRF Editor or thi tool from Ai4rei https://nn.ai4rei.net/dev/rotools/release/2024-09-21rsumerge-1.9.zip
+> Yes, you can use GRF Editor or this tool from Ai4rei https://nn.ai4rei.net/dev/rotools/release/2024-09-21rsumerge-1.9.zip
