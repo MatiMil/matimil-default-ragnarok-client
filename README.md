@@ -81,7 +81,6 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 
 > In your Windows registry there is no data about your selected graphic card, to fix it, just set up your settings in **`Setup.exe`** and click on *OK*, be aware to don't select **DirectX9**, stay on **DirectX7** 😡
 
-
 ### What was removed from the data.grf?
 
 > Several unnecessary files were removed from the **`data.grf`** archive. These included residual files such as **`thumbs.db`** and stray **`BMP Screenshots`**. However, the majority of the cleanup was performed in the **`mob`** and **`npc`** sprite folders.
@@ -92,10 +91,13 @@ You can [**click here**](https://gitlab.com/SapitoSucio/fROggo-folder/-/archive/
 >
 > Additionally, every **`.bmp`** image was converted to **8-bit color depth**. This not only saves space in the archive but also makes it easier for the RO client to handle these images efficiently. Furthermore, both **PNGs** and **JPGs** underwent compression to reduce their file sizes.
 
-
 ### Why is there data_0.grf, data_1.grf, etc?
 
 > Out of the blue, Gitlab decided to lower the max file size for LFS objects, so I had to split the data.grf into multiple files, this way I can upload the folder to Gitlab without any issues.
 >
 > I'm not sure if this will be a permanent solution, but it's a temporary one.
 
+### Can I merge data_0.grf, data_1.grf, etc into one?
+
+> Ye
+> You can use GRF Editor or thi tool from Ai4rei https://nn.ai4rei.net/dev/rotools/release/2024-09-21rsumerge-1.9.zip
